@@ -27,8 +27,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'XYWatch', // Usually your GitHub org/user name.
-  projectName: 'XYWatch', // Usually your repo name.
+  organizationName: 'xywatch', // Usually your GitHub org/user name.
+  projectName: 'xywatch.github.io', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
